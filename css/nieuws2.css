@@ -1,0 +1,57 @@
+body {
+	font-family: arial;
+	background-image: url(img/background.jpg);
+}
+
+li {
+     display: inline;
+     padding-right: 10px;
+}
+
+ul a {
+	text-decoration: none;
+	color: white;
+}
+
+.div1 {
+	text-align: center; 
+	width: 800px;
+	padding: auto;
+	float: center;
+	height: 250px;
+	margin: auto;
+}
+
+h1 { text-align: center;
+	height: 12px;
+	color: pink;
+    
+
+}
+
+p {text-align: left;}
+
+.div2 {
+	text-align: left;
+	width: 800px;
+	margin: auto;
+
+}
+
+ul a:hover {
+	background-color: pink;
+
+}
+
+img { 	border-color: white;
+}
+
+
+
+}
+
+h2 { margin: 10px; }
+
+div li img {
+	float: right;
+}

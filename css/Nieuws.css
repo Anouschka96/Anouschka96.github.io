@@ -1,0 +1,74 @@
+body {
+	font-family: arial;
+}
+
+li {
+     display: inline;
+     padding-right: 10px;
+}
+
+ul a {
+	text-decoration: none;
+	color: white;
+}
+
+.div1 {
+	text-align: left; 
+	width: 800px;
+	padding: auto;
+	float: center;
+	background-image: url(hoofd.jpg);
+	height: 250px;
+	margin: auto;
+}
+
+h1 { text-align: left;
+	height: 12px;
+    
+
+}
+
+p {text-align: left;}
+
+.div2 {
+	text-align: left;
+	width: 800px;
+	margin: auto;
+
+}
+
+ul a:hover {
+	background-color: black;
+
+}
+
+img { 	border-color: white;
+}
+
+.blokje1 {
+	float: left;
+    width: 270px;
+    height: 200px;
+    background: #7EBEDE;
+    position:relative;
+    top: 0px;
+    right: 3px;
+
+}
+
+.blokje2 {
+	float: right;
+    width: 270px;
+    height: 200px;
+    background: #7EBEDE;
+    position:relative;
+    top: 1300x;
+    left: 3px;
+
+}
+
+h2 { margin: 10px; }
+
+div li img {
+	float: right;
+}
