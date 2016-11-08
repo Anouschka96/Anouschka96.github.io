@@ -1,6 +1,6 @@
 body {
 	font-family: arial;
-	background-image: url(img/background.jpg);
+	background-image: url(background.jpg);
 }
 
 li {
@@ -23,8 +23,10 @@ ul a {
 }
 
 h1 { text-align: center;
-	height: 12px;
+	height: 13px;
 	color: pink;
+	text-shadow: 5px 3px 5px white;
+	font-size: 80px;
     
 
 }

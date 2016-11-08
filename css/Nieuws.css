@@ -1,5 +1,6 @@
 body {
 	font-family: arial;
+	background-image: url(img/background.jpg);
 }
 
 li {
@@ -17,7 +18,6 @@ ul a {
 	width: 800px;
 	padding: auto;
 	float: center;
-	background-image: url(hoofd.jpg);
 	height: 250px;
 	margin: auto;
 }
@@ -45,25 +45,6 @@ ul a:hover {
 img { 	border-color: white;
 }
 
-.blokje1 {
-	float: left;
-    width: 270px;
-    height: 200px;
-    background: #7EBEDE;
-    position:relative;
-    top: 0px;
-    right: 3px;
-
-}
-
-.blokje2 {
-	float: right;
-    width: 270px;
-    height: 200px;
-    background: #7EBEDE;
-    position:relative;
-    top: 1300x;
-    left: 3px;
 
 }
 
