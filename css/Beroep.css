@@ -29,7 +29,8 @@ h1 { text-align: center;
 
 }
 
-p {text-align: left;}
+p {text-align: left;
+color: white;}
 
 .div2 {
 	text-align: left;
@@ -54,4 +55,25 @@ h2 { margin: 10px; }
 
 div li img {
 	float: right;
+}
+
+h2
+{
+	color: pink;
+	padding: 20px;
+}
+.h2 
+{padding: 250px;
+
+}
+
+h3
+{
+	color: pink;
+	text-align: left;
+}
+
+.h3
+{
+	float: center;
 }

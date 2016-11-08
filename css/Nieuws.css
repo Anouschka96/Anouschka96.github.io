@@ -24,11 +24,13 @@ ul a {
 
 h1 { text-align: left;
 	height: 12px;
+	color: pink;
     
 
 }
 
-p {text-align: left;}
+p {text-align: left
+color: white;}
 
 .div2 {
 	text-align: left;
@@ -43,13 +45,32 @@ ul a:hover {
 }
 
 img { 	border-color: white;
+	float: center;
 }
 
 
 }
 
-h2 { margin: 10px; }
+h2 { margin: 10px;
+color: pink; }
 
 div li img {
 	float: right;
+}
+
+h3 {
+	color: pink;
+}
+
+h4 {
+	color: pink;
+
+}
+
+h5 {
+	color: pink;
+}
+
+.text {
+	color: pink;
 }
