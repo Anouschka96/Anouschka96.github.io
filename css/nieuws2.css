@@ -31,7 +31,8 @@ h1 { text-align: center;
 
 }
 
-p {text-align: left;}
+p {text-align: left;
+color: white;}
 
 .div2 {
 	text-align: left;
@@ -52,8 +53,31 @@ img { 	border-color: white;
 
 }
 
-h2 { margin: 10px; }
+h2 { margin: 10px; 
+     font-size: 20px;
+     color: pink;}
 
 div li img {
 	float: right;
+}
+
+h3 {
+	color: pink;
+	font-size: 20px;
+}
+
+h4 {
+	color: pink;
+	font-size: 20px;
+
+}
+
+h5 {
+	color: pink;
+	font-size: 20px;
+}
+h6 {
+	color: pink;
+	font-size: 20px;
+	padding: -10px;
 }
